@@ -25,7 +25,6 @@ import redis.clients.jedis.ShardedJedisPool;
 import redis.clients.util.Hashing;
 
 /** This is b modify */
-/** This is a modify.*/
 
 /**
  * @Author chenchen
