@@ -24,7 +24,6 @@ import redis.clients.jedis.ShardedJedisPipeline;
 import redis.clients.jedis.ShardedJedisPool;
 import redis.clients.util.Hashing;
 
-/** b modify */
 
 /**
  * @Author chenchen
@@ -376,3 +375,4 @@ public class REST implements Serializable {
         REST.getInstance().destroy();
     }
 }
+/** b modify */
