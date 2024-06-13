@@ -375,4 +375,3 @@ public class REST implements Serializable {
         REST.getInstance().destroy();
     }
 }
-/** b modify */
